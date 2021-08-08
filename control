@@ -1,0 +1,9 @@
+Package: com.nitewolf.notwitterads
+Name: NoTwitterAds
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Remove promoted tweets from the Twitter app
+Maintainer: Nicholas Lim
+Author: Hao Nguyen
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
